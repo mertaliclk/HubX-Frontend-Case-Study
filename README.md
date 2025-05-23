@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)
 ![Vite](https://img.shields.io/badge/Vite-4.x-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A responsive frontend implementation for HubX's case study, built with modern web technologies and following mobile-first design principles.
 
